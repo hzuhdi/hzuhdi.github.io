@@ -1,2 +1,10 @@
-# hzuhdi.github.io
-Github.io personal page of hzuhdi
+# How to run
+```
+bundle exec jekyll serve
+```
+
+or:
+
+```
+jekyll serve
+```
